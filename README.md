@@ -33,9 +33,9 @@
  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vamshi5454&theme=default"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vamshi5454&theme=dark"/>
 </p>
-- 📄 Know about my experiences <a href="https://my-personal-resume01.s3.us-east-2.amazonaws.com/FullStack.pdf">Click here</a>
+- 📄 Know about my experiences <a href="https://personal-resume01.s3.us-east-1.amazonaws.com/Vamshi_Ponugoti-Resume.pdf">Click here</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prudhvi-jampana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prudhvi-jampana/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vamshi-ponugoti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vamshi-ponugoti/" height="30" width="40" /></a>
  
 </p>
